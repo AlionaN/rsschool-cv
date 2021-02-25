@@ -45,11 +45,17 @@ Now I feel that I need to go to the next stage of growth. I want to improve pure
 ## Experience
 
 HTML/CSS Coder
+
 AwebSystems / Kyiv / 2019
+
 My responsibilities included editing existing sites: adding new pages, editing existing pages, editing menus, adding new blocks and photos. I got skills in working with various CMS: WordPress, ModX and others.
 
+
+
 Web Developer
+
 Starter / Kyiv / 2019 - present
+
 My responsibilities:
 * development of the structure of links on the site;
 * creation of sites from scratch (development of a prototype in a graphic editor, creation of a website design, layout of the created design);
@@ -61,19 +67,33 @@ My responsibilities:
 ## Education
 
 Economical Cybernetics, bachelor’s degree 
+
 Kyiv National Univercity of Trade and Economics 
+
 2016 - 2020
 
+
+
 Web design
+
 Perspective
+
 2018
 
+
+
 Front End Online University Program
+
 EPAM 
+
 2020 
 
+
+
 Digital Economy, master’s degree student 
+
 Kyiv National Univercity of Trade and Economics 
+
 2020 - present
 
 ## Languages skills
