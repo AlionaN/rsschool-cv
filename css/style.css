@@ -37,6 +37,7 @@ body{
 }
 .wrapper{
     display: flex;
+    flex-wrap: wrap;
     width: 70%;
     margin: 2rem auto;
     box-shadow: 3px -2px 8px 6px #191919;
@@ -44,11 +45,14 @@ body{
     background-image: url('../img/Rectangle.jpg');
     background-repeat: no-repeat;
     background-size: contain;
+    border-radius: .5rem;
+    overflow: hidden;
 }
 .left-part{
     background-color: #F2DBC9;
     padding: 2rem;
     margin: 3rem 0 0 2rem;
+    width: 35%;
 }
 .left-part > * + *{
     margin-top: 1.5rem;
@@ -105,6 +109,7 @@ body{
 }
 .right-part{
     margin: 2rem;
+    width: 50%;
 }
 .right-part__main-title{
     color: #fff;
@@ -157,5 +162,20 @@ body{
     list-style-position: inside;
 }
 .background__list .backgound__list-item + .backgound__list-item{
+    margin-top: 0.5rem;
+}
+.footer{
+    width: 100%;
+    background-color: #D9E2EA;
+    padding: 1rem 0;
+}
+.footer__github-logo{
+    width: 3rem;
+    display: block;
+    margin: 0 auto;
+}
+.footer__year{
+    text-align: center;
+    color: #fff;
     margin-top: 0.5rem;
 }
